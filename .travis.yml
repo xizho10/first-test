@@ -1,4 +1,6 @@
 language: gcc
 script:
 - gcc hh.c -o hh
+- pwd
+- ls
 - ./hh

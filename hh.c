@@ -1,5 +1,6 @@
 #include <stdio.h>
-main()
+int main()
 {
-printf("Hello World===!\n");
+printf("Hello World===hh!\n");
+return 0;
 }
